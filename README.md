@@ -12,13 +12,11 @@ The repository is organized as follows:
   - 03_Modelling_AIC.ipynb
   - 04_Context_AIC.ipynb
 
-  Data
-│ ├── dataset1.csv
-│ ├── dataset2.csv
-│ └── ...
-└── README.md
+  Data:
+  - CAOP and BGRI data can be obtained at: https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop, https://mapas.ine.pt/download/index2021.phtml and               https://mapas.ine.pt/download/index2011.phtml
+  - All necessary files to run the notebooks. Please adapt the code accordingly (edit file path along the notebooks)
+  - AIC_Requirements.txt, with library information
+  - README.md
 
-- **Notebooks**: This directory contains the Jupyter Notebooks used for the research project. Each notebook serves a specific purpose and includes detailed explanations of the implemented methodology and analysis.
 
-- **Data**: This directory holds the datasets used in the research project.
 
