@@ -19,5 +19,5 @@ The repository is organized as follows:
   - AIC_Requirements.txt, with library information
   - HTML file with the descriptive analysis of the variables used in the project
 
-CAOP and BGRI data can be obtained at: https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop, https://mapas.ine.pt/download/index2021.phtml and               https://mapas.ine.pt/download/index2011.phtml
+CAOP and BGRI data can be obtained at: https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop, https://mapas.ine.pt/download/index2021.phtml and               https://mapas.ine.pt/download/index2011.phtml (edit file path along the notebooks)
 
