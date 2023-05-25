@@ -47,5 +47,5 @@ NOTE: CAOP and BGRI data can be obtained at: https://www.dgterritorio.gov.pt/car
     - All necessary survey data to run the notebooks. Please adapt the code accordingly (edit file path along the notebooks)
 
     Notebooks Folder:
-      - Prospect_ETL_v0.ipynb
-      - Prospect_ETL_v1.ipynb
+      - Prospect_ETL_v0.ipynb - https://github.com/dcspt-getin/AIC_POAT/blob/main/Approach%202/Notebooks/Prospect_ETL_v0.ipynb
+      - Prospect_ETL_v1.ipynb - https://github.com/dcspt-getin/AIC_POAT/blob/main/Approach%202/Notebooks/Prospect_ETL_v1.ipynb
