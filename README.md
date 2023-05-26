@@ -34,6 +34,9 @@ The repository encompasses 2 approaches to perform the evaluation of territorial
     - PreProcessing_Part3.ipynb - https://github.com/dcspt-getin/AIC_POAT/blob/main/Approach%201/Georref.%20Zones/Notebooks/PreProcessing_Part3.ipynb
     - PreProcessing_Part4.ipynb - https://github.com/dcspt-getin/AIC_POAT/blob/main/Approach%201/Georref.%20Zones/Notebooks/PreProcessing_Part4.ipynb
     
+    Others Folder:
+    - environment.yml and requirements.txt, with library information
+    
 
 
 NOTE: CAOP and BGRI data can be obtained at: https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop, https://mapas.ine.pt/download/index2021.phtml and               https://mapas.ine.pt/download/index2011.phtml (edit file path along the notebooks)
@@ -41,11 +44,14 @@ NOTE: CAOP and BGRI data can be obtained at: https://www.dgterritorio.gov.pt/car
 ### The Approach 2 Folder is organized as follows:
 
     Data - Pickles Folder:
-    - All necessary pickles to run the notebooks. Please adapt the code accordingly (edit file path along the notebooks)
+     - All necessary pickles to run the notebooks. Please adapt the code accordingly (edit file path along the notebooks)
     
     Data - PROLIFIC Folder:
     - All necessary survey data to run the notebooks. Please adapt the code accordingly (edit file path along the notebooks)
 
     Notebooks Folder:
-      - Prospect_ETL_v0.ipynb - https://github.com/dcspt-getin/AIC_POAT/blob/main/Approach%202/Notebooks/Prospect_ETL_v0.ipynb
-      - Prospect_ETL_v1.ipynb - https://github.com/dcspt-getin/AIC_POAT/blob/main/Approach%202/Notebooks/Prospect_ETL_v1.ipynb
+    - Prospect_ETL_v0.ipynb - https://github.com/dcspt-getin/AIC_POAT/blob/main/Approach%202/Notebooks/Prospect_ETL_v0.ipynb
+    - Prospect_ETL_v1.ipynb - https://github.com/dcspt-getin/AIC_POAT/blob/main/Approach%202/Notebooks/Prospect_ETL_v1.ipynb
+      
+    Others Folder:
+    - environment.yml and requirements.txt, with library information
