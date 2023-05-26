@@ -22,8 +22,8 @@ The repository encompasses 2 approaches to perform the evaluation of territorial
     - All necessary files to run the notebooks. Please adapt the code accordingly (edit file path along the notebooks)
 
     Others Folder:
-    - AIC_Requirements.txt, with library information
-    - HTML file with the descriptive analysis of the variables used in the project
+    - environment.yml and requirements.txt, with library information
+    - Análise_Descritiva_POAT.html with the descriptive analysis of the variables used in the project
     
   Georref. Zones Folder containing:
     
