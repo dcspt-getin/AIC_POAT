@@ -46,7 +46,7 @@ The repository encompasses 2 approaches to perform the evaluation of territorial
         - All necessary files to run the notebooks
     
     Others Folder:
-        - environment.yml and requirements.txt, with library information
+        - geopreprocess.yml and requirements_geopreprocess.txt with library information
 
 ### The Approach_2 Folder is organized as follows:
 
@@ -59,6 +59,6 @@ The repository encompasses 2 approaches to perform the evaluation of territorial
         - Data_PROLIFIC Folder - All necessary survey data to run the notebooks
       
     Others Folder:
-        - environment.yml and requirements.txt, with library information
+        - analstats.yml, requirements_analstats.txt and requirements_modellingpytorch.txt with library information
     
 NOTE: CAOP and BGRI data can also be obtained at: https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop, https://mapas.ine.pt/download/index2021.phtml and               https://mapas.ine.pt/download/index2011.phtml (in case the link supplied on the "Steps to properly run the Notebooks" section doesn't work.
