@@ -2,7 +2,13 @@
 
 This repository contains the code and documentation for the research project conducted at the University of Aveiro, Portugal. The project focuses on the evaluation of territorial impact from urban revitalization operations.
 
-Please clone the repository in order to download the below structure of folders and files.
+## Steps to properly run the Notebooks:
+1) Clone the repository.
+2) Some files are too big to be uploaded to Github. Download the 4 files available on the following link (ADD LINK) and follow the instructions below:
+    - Place the file "BGRI21_CONT.gpkg" in the folder "../Approach_1/AIC_Regression/Data/BGRI21_CONT/"
+    - Place the file "BGRI2011_PT_2.csv" in the folder "../Approach_1/AIC_Regression/Data/BGRI11/"
+    - Place the file "BGRI11_CONT.shp" in the folder "../Approach_1/AIC_Regression/Data/BGRI11/CONTINENTE/"
+    - Place the file "Cont_AAD_CAOP2022.shp" in the folder "../Approach_1/AIC_Regression/Data/CAOP_2022/"
 
 ## Project Structure
 
@@ -21,13 +27,8 @@ The repository encompasses 2 approaches to perform the evaluation of territorial
     - 04_Context_AIC.ipynb
 
     Data Folder:
-    - All necessary files to run the notebooks.
-    - Some files are too big to be uploaded to Github -> please download the 4 files available on the following link (ADD LINK) and follow the instructions below:
-      - Place the file "BGRI21_CONT.gpkg" in the folder "../Approach_1/AIC_Regression/Data/BGRI21_CONT/"
-      - Place the file "BGRI2011_PT_2.csv" in the folder "../Approach_1/AIC_Regression/Data/BGRI11/"
-      - Place the file "BGRI11_CONT.shp" in the folder "../Approach_1/AIC_Regression/Data/BGRI11/CONTINENTE/"
-      - Place the file "Cont_AAD_CAOP2022.shp" in the folder "../Approach_1/AIC_Regression/Data/CAOP_2022/"
-
+    - All necessary files to run the notebooks
+    
     Others Folder:
     - environment.yml and requirements.txt, with library information
     - Análise_Descritiva_POAT.html with the descriptive analysis of the variables used in the project
@@ -41,22 +42,25 @@ The repository encompasses 2 approaches to perform the evaluation of territorial
     - PreProcessing_Part3.ipynb
     - PreProcessing_Part4.ipynb
     
+    Data Folder:
+    - All necessary files to run the notebooks
+    
     Others Folder:
     - environment.yml and requirements.txt, with library information
 
-NOTE: CAOP and BGRI data can be obtained at: https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop, https://mapas.ine.pt/download/index2021.phtml and               https://mapas.ine.pt/download/index2011.phtml.
-
 ### The Approach_2 Folder is organized as follows:
-
-    Data_Pickles Folder:
-     - All necessary pickles to run the notebooks. Please adapt the code accordingly (edit file path along the notebooks)
-    
-    Data_PROLIFIC Folder:
-    - All necessary survey data to run the notebooks. Please adapt the code accordingly (edit file path along the notebooks)
 
     Notebooks Folder:
     - Prospect_ETL_v0.ipynb
     - Prospect_ETL_v1.ipynb
+    
+    Data_Pickles Folder:
+     - All necessary pickles to run the notebooks
+    
+    Data_PROLIFIC Folder:
+    - All necessary survey data to run the notebooks
       
     Others Folder:
     - environment.yml and requirements.txt, with library information
+    
+NOTE: CAOP and BGRI data can also be obtained at: https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop, https://mapas.ine.pt/download/index2021.phtml and               https://mapas.ine.pt/download/index2011.phtml (in case the link supplied on the "Steps to properly run the Notebooks" section doesn't work.
