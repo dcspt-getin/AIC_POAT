@@ -31,7 +31,7 @@ The repository encompasses 2 approaches to perform the evaluation of territorial
     
     Others Folder:
         - environment.yml and requirements.txt, with library information
-        - Análise_Descritiva_POAT.html with the descriptive analysis of the variables used in the project
+        - Análise_Descritiva_POAT.html with the descriptive analysis of the variables
     
   Georref_Zones Folder containing:
     
