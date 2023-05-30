@@ -1,7 +1,8 @@
 # AIC_POAT - Research Project Repository
 
 This repository contains the code and documentation for the research project conducted at the University of Aveiro, Portugal. The project focuses on the evaluation of territorial impact from urban revitalization operations.
-Please close the repository in order to download the below structure of folders and files.
+
+Please clone the repository in order to download the below structure of folders and files.
 
 ## Project Structure
 
