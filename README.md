@@ -22,7 +22,7 @@ The repository encompasses 2 approaches to perform the evaluation of territorial
 
     Data Folder:
     - All necessary files to run the notebooks.
-    - Some files are too big to be uploaded to Github -> please download the 4 files available on the following link () and follow the instructions below:
+    - Some files are too big to be uploaded to Github -> please download the 4 files available on the following link (ADD LINK) and follow the instructions below:
       - Place the file "BGRI21_CONT.gpkg" in the folder "../Approach_1/AIC_Regression/Data/BGRI21_CONT/"
       - Place the file "BGRI2011_PT_2.csv" in the folder "../Approach_1/AIC_Regression/Data/BGRI11/"
       - Place the file "BGRI11_CONT.shp" in the folder "../Approach_1/AIC_Regression/Data/BGRI11/CONTINENTE/"
@@ -43,10 +43,8 @@ The repository encompasses 2 approaches to perform the evaluation of territorial
     
     Others Folder:
     - environment.yml and requirements.txt, with library information
-    
 
-
-NOTE: CAOP and BGRI data can be obtained at: https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop, https://mapas.ine.pt/download/index2021.phtml and               https://mapas.ine.pt/download/index2011.phtml (edit file path along the notebooks)
+NOTE: CAOP and BGRI data can be obtained at: https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop, https://mapas.ine.pt/download/index2021.phtml and               https://mapas.ine.pt/download/index2011.phtml.
 
 ### The Approach_2 Folder is organized as follows:
 
